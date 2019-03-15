@@ -14,4 +14,4 @@ The `json` folder was generated using a patched Electrum-NMC build.  I'm happy t
 
 # License
 
-License on code is GPLv3+.  License on CSV data is CC-BY-SA 4.0.  Namecoin block headers are presumably not copyrightable.
+License on code is GPLv3+.  License on CSV data is CC-BY-SA 4.0.  The `json` folder (containing Namecoin block headers and Electrum protocol dumps) is presumably not copyrightable.
